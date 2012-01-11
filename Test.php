@@ -1,1 +1,3 @@
-It is a test file here...
+<?
+var_dump("sdad");
+?>
